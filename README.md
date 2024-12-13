@@ -18,7 +18,7 @@ Implements a model for classifying EEG signals as epileptic or non-epileptic. 6 
 
 Evaluation: 
 
-Provides methods for assessing the model's performance in terms of precision and accuracy.
+Provides methods for assessing the model's performance in terms of precision and accuracy. Some classifiers perform better than others. SVM was found to detect epilepsy with the highest accuracy.
 
 The programs are run in the following order:
 1. WaveletDenoising.m
